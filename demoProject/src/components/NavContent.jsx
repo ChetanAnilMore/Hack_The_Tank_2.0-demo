@@ -1,10 +1,10 @@
 function NavContent() {
   return (
     <>
-      <a href="#">Home</a>
-      <a href="#">Services</a>
-      <a href="#">About</a>
-      <a href="#">Contact</a>
+      <a href="home.html">Home</a>
+      <a href="services.html">Services</a>
+      <a href="About.html">About</a>
+      <a href="Contact.html">Contact</a>
     </>
   );
 }
