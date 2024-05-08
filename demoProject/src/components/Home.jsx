@@ -49,13 +49,17 @@ export default function Home() {
                 </div>
                 <div className="flex-grow pl-6">
                   <h2 className="text-gray-900 text-lg title-font font-medium mb-2">
-                    Shooting Stars
+                    Efficient Parking Solutions
                   </h2>
                   <p className="leading-relaxed text-base">
-                    Blue bottle crucifix vinyl post-ironic four dollar toast
-                    vegan taxidermy. Gastropub indxgo juice poutine, ramps
-                    microdosing banh mi pug VHS try-hard ugh iceland kickstarter
-                    tumblr live-edge tilde.
+                    Smart parking systems offer an innovative and efficient
+                    solution for managing parking spaces, alleviating the
+                    problems of parking congestion and difficulty finding
+                    available spaces. By utilizing advanced technologies such as
+                    sensors, wireless communication, and data analytics, smart
+                    parking systems can provide real-time information about
+                    parking availability, helping drivers locate and access
+                    available parking spots quickly and easily.
                   </p>
                   <a className="mt-3 text-indigo-500 inline-flex items-center">
                     Learn More
@@ -91,13 +95,16 @@ export default function Home() {
                 </div>
                 <div className="flex-grow pl-6">
                   <h2 className="text-gray-900 text-lg title-font font-medium mb-2">
-                    The Catalyzer
+                    Smart Parking Innovations
                   </h2>
                   <p className="leading-relaxed text-base">
-                    Blue bottle crucifix vinyl post-ironic four dollar toast
-                    vegan taxidermy. Gastropub indxgo juice poutine, ramps
-                    microdosing banh mi pug VHS try-hard ugh iceland kickstarter
-                    tumblr live-edge tilde.
+                    The potential of smart parking systems is immense, and
+                    numerous applications are being explored to enhance the user
+                    experience and provide further benefits. For example,
+                    research is currently being conducted to develop autonomous
+                    robot valets that can take cars to and from parking spots,
+                    as well as intelligent charging systems that can detect
+                    electric vehicles and provide charging services.
                   </p>
                   <a className="mt-3 text-indigo-500 inline-flex items-center">
                     Learn More
@@ -132,13 +139,16 @@ export default function Home() {
                 </div>
                 <div className="flex-grow pl-6">
                   <h2 className="text-gray-900 text-lg title-font font-medium mb-2">
-                    Neptune
+                    Smart Parking Revolution
                   </h2>
                   <p className="leading-relaxed text-base">
-                    Blue bottle crucifix vinyl post-ironic four dollar toast
-                    vegan taxidermy. Gastropub indxgo juice poutine, ramps
-                    microdosing banh mi pug VHS try-hard ugh iceland kickstarter
-                    tumblr live-edge tilde.
+                    smart parking systems offer a great opportunity to improve
+                    the efficiency and convenience of parking, as well as reduce
+                    traffic congestion in urban areas. As the technology
+                    continues to advance and become more widely available, more
+                    applications of this technology will be developed and
+                    implemented, providing even greater benefits to drivers and
+                    cities alike.
                   </p>
                   <a className="mt-3 text-indigo-500 inline-flex items-center">
                     Learn More
@@ -172,7 +182,7 @@ export default function Home() {
                 marginHeight="0"
                 marginWidth="0"
                 scrolling="no"
-                src="https://maps.google.com/maps?width=100%&height=600&hl=en&q=%C4%B0zmir+(My%20Business%20Name)&ie=UTF8&t=&z=14&iwloc=B&output=embed"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d238132.6728888523!2d72.65748223205493!3d21.15944056645878!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be04e59411d1563%3A0xfe4558290938b042!2sSurat%2C%20Gujarat!5e0!3m2!1sen!2sin!4v1715166752866!5m2!1sen!2sin"
                 style={{ filter: "grayscale(1) contrast(1.2) opacity(0.4)" }}
               ></iframe>
               <div className="bg-white relative flex flex-wrap py-6 rounded shadow-md">
@@ -181,8 +191,7 @@ export default function Home() {
                     ADDRESS
                   </h2>
                   <p className="mt-1">
-                    Photo booth tattooed prism, portland taiyaki hoodie neutra
-                    typewriter
+                    C.K. Pithawala college of engineering and technology near surat airport, Surat, Gujarat, India
                   </p>
                 </div>
                 <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
@@ -271,10 +280,9 @@ export default function Home() {
                     <path d="M925.036 57.197h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.399 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l36 76c11.6 24.399 40.3 35.1 65.1 24.399 66.2-28.6 122.101-64.8 167.7-108.8 55.601-53.7 93.7-114.3 114.3-181.9 20.601-67.6 30.9-159.8 30.9-276.8v-239c0-27.599-22.401-50-50-50zM106.036 913.497c65.4-28.5 121-64.699 166.9-108.6 56.1-53.7 94.4-114.1 115-181.2 20.6-67.1 30.899-159.6 30.899-277.5v-239c0-27.6-22.399-50-50-50h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.4 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l35.9 75.8c11.601 24.399 40.501 35.2 65.301 24.399z"></path>
                   </svg>
                   <p className="leading-relaxed mb-6">
-                    Synth chartreuse iPhone lomo cray raw denim brunch everyday
-                    carry neutra behtmlFore they sold out fixie 90's
-                    microdosing. Tacos pinterest fanny pack venmo, post-ironic
-                    heirloom try-hard pabst authentic iceland.
+                    Since implementing the smart parking management system, our
+                    parking experience has been transformed. No more circling
+                    endlessly for a spot, now it's efficient and stress-free!
                   </p>
                   <a className="inline-flex items-center">
                     <img
@@ -284,10 +292,10 @@ export default function Home() {
                     />
                     <span className="flex-grow flex flex-col pl-4">
                       <span className="title-font font-medium text-gray-900">
-                        Holden Caulfield
+                        Sarah M
                       </span>
                       <span className="text-gray-500 text-sm">
-                        UI DEVELOPER
+                        City Resident
                       </span>
                     </span>
                   </a>
@@ -304,10 +312,9 @@ export default function Home() {
                     <path d="M925.036 57.197h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.399 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l36 76c11.6 24.399 40.3 35.1 65.1 24.399 66.2-28.6 122.101-64.8 167.7-108.8 55.601-53.7 93.7-114.3 114.3-181.9 20.601-67.6 30.9-159.8 30.9-276.8v-239c0-27.599-22.401-50-50-50zM106.036 913.497c65.4-28.5 121-64.699 166.9-108.6 56.1-53.7 94.4-114.1 115-181.2 20.6-67.1 30.899-159.6 30.899-277.5v-239c0-27.6-22.399-50-50-50h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.4 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l35.9 75.8c11.601 24.399 40.501 35.2 65.301 24.399z"></path>
                   </svg>
                   <p className="leading-relaxed mb-6">
-                    Synth chartreuse iPhone lomo cray raw denim brunch everyday
-                    carry neutra behtmlFore they sold out fixie 90's
-                    microdosing. Tacos pinterest fanny pack venmo, post-ironic
-                    heirloom try-hard pabst authentic iceland.
+                    The smart parking system has made a significant impact on
+                    our business. Customers spend less time searching for
+                    parking, leading to increased foot traffic and sales.
                   </p>
                   <a className="inline-flex items-center">
                     <img
@@ -317,9 +324,11 @@ export default function Home() {
                     />
                     <span className="flex-grow flex flex-col pl-4">
                       <span className="title-font font-medium text-gray-900">
-                        Alper Kamu
+                        Jhon D.
                       </span>
-                      <span className="text-gray-500 text-sm">DESIGNER</span>
+                      <span className="text-gray-500 text-sm">
+                        Small Business Owner
+                      </span>
                     </span>
                   </a>
                 </div>
@@ -332,13 +341,18 @@ export default function Home() {
           <div className="container px-5 py-24 mx-auto">
             <div className="flex flex-col text-center w-full mb-20">
               <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">
-                Master Cleanse Reliac Heirloom
+                Majority support from customers
               </h1>
               <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
-                gentrify, subway tile poke farm-to-table. Franzen you probably
-                haven't heard of them man bun deep jianbing selfies heirloom
-                prism food truck ugh squid celiac humblebrag.
+                Customer satisfaction surveys consistently reveal overwhelming
+                support for our smart parking system. With its user-friendly
+                interface and seamless operation, it has become an indispensable
+                tool for urban commuters and city dwellers alike. The majority
+                of respondents praise its ability to alleviate parking
+                frustrations, save time, and reduce stress levels. This
+                resounding approval underscores the significant positive impact
+                the smart parking system has made on the daily lives of our
+                customers.
               </p>
             </div>
             <div className="flex flex-wrap -m-4 text-center">
@@ -443,10 +457,10 @@ export default function Home() {
               >
                 <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
               </svg>
-              <span className="ml-3 text-xl">Tailblocks</span>
+              <span className="ml-3 text-xl">SmartPark</span>
             </a>
             <p className="mt-2 text-sm text-gray-500">
-              Air plant banjo lyft occupy retro adaptogen indego
+              Park Smarter, Drive Happier!
             </p>
           </div>
           <div className="flex-grow flex flex-wrap md:pl-20 -mb-10 md:mt-0 mt-10 md:text-left text-center">
@@ -563,14 +577,14 @@ export default function Home() {
         <div className="bg-gray-100">
           <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
             <p className="text-gray-500 text-sm text-center sm:text-left">
-              © 2020 Tailblocks —
+              © 2024 SmartPark —
               <a
                 href="https://twitter.com/knyttneve"
                 rel="noopener noreferrer"
                 className="text-gray-600 ml-1"
                 target="_blank"
               >
-                @knyttneve
+                @anurag4me
               </a>
             </p>
             <span className="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
